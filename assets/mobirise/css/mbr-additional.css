@@ -1430,6 +1430,7 @@ body {
 .cid-qRF03udd3v .input-group-btn {
   display: block;
   text-align: center;
+  padding-bottom: 50px;
 }
 .cid-qRF03udd3v H2 {
   color: #cbaf74;
@@ -1438,7 +1439,10 @@ body {
   color: #cbaf74;
 }
 .cid-qRF03udd3v .form-group {
-  padding: 10px;
+  padding: 20px;
+}
+.cid-qRF03udd3v .form-control-label {
+  margin-top: 20px;
 }
 .cid-qSpmjvxx8R {
   padding-top: 15px;
